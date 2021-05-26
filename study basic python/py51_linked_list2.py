@@ -99,7 +99,6 @@ class LinkedList:
             print('data not Found')
 
 
-
 if __name__=='__main__':
     ll = LinkedList()
     ll.insert_all_values(["banana","mango","grapes","orange"])
